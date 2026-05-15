@@ -1,0 +1,9 @@
+{
+  "name": "project-final-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix ChickMic",
+    "build": "npm run build --prefix ChickMic",
+    "start:server": "npm run start:server --prefix ChickMic"
+  }
+}
